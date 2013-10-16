@@ -9,8 +9,6 @@ public class Problem1 {
     private static int[] num;
 
     public static void main(String[] args) {
-        /* Enter your code here. Read input from STDIN. Print output to STDOUT. Your class should be named Solution. */
-        
         int n = 0, k = 0;
         String line = "";
         int lineNum = 0;
